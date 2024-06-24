@@ -11,7 +11,7 @@ export default function Header() {
             <h1 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400 hover:from-teal-400 hover:to-blue-500 transition-colors duration-300">
               Priya Bommisetty
             </h1>
-            <p className="text-xl pl-14 pt-2 text-gray-700"> - Web Design Student</p>
+            <p className="text-xl md:pl-14 lg:pl-14 pt-2 text-gray-700"> - Web Design Student</p>
           </div>
         </div>
 
@@ -26,6 +26,7 @@ export default function Header() {
       </div>
     </header>
   );
+
 }
 
   
